@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "HackerRank\Algorithms.csproj", "{623C8D61-3B3F-44BE-A5CE-B5C60120424D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{623C8D61-3B3F-44BE-A5CE-B5C60120424D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "h30DaysOfCode", "h30DaysOfCode\h30DaysOfCode.csproj", "{31E22983-CF67-49F2-BC84-7376640EA39E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{623C8D61-3B3F-44BE-A5CE-B5C60120424D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{623C8D61-3B3F-44BE-A5CE-B5C60120424D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{623C8D61-3B3F-44BE-A5CE-B5C60120424D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E22983-CF67-49F2-BC84-7376640EA39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E22983-CF67-49F2-BC84-7376640EA39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E22983-CF67-49F2-BC84-7376640EA39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E22983-CF67-49F2-BC84-7376640EA39E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,8 +24,8 @@ namespace Algorithms.Implementation
                 });
             //Array.Reverse(keyboards);
             Array.Sort(drives);
-            int iMax = -1;
-            int jMax = -1;
+            //int iMax = -1;
+            //int jMax = -1;
             int max = -1;
             for (int i = 0, j = 0; i < n; i++)
             {
