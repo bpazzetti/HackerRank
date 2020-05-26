@@ -10,7 +10,7 @@ namespace Algorithms
     {        
         static void Main(string[] args)
         {
-            Implementation.ChocolateFeast.Main1(args);
+            Implementation.ServiceLane.Main1(args);
             Console.ReadLine();
         }
     }

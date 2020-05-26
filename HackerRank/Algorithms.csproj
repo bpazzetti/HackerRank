@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{623C8D61-3B3F-44BE-A5CE-B5C60120424D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HackerRank</RootNamespace>
-    <AssemblyName>HackerRank</AssemblyName>
+    <RootNamespace>Algorithms</RootNamespace>
+    <AssemblyName>Algorithms</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -95,6 +95,7 @@
     <Compile Include="Implementation\RepeatedString.cs" />
     <Compile Include="Implementation\SaveThePrisoner.cs" />
     <Compile Include="Implementation\SequenceEquation.cs" />
+    <Compile Include="Implementation\ServiceLane.cs" />
     <Compile Include="Implementation\SockMerchant.cs" />
     <Compile Include="Implementation\StrangeCounter.cs" />
     <Compile Include="Implementation\TheHurdleRace.cs" />
