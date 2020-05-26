@@ -5,7 +5,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HackerRank.Implementation
+namespace Algorithms.Implementation
 {
     class TheTimeInWords
     {

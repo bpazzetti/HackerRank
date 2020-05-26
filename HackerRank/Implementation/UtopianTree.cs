@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HackerRank.Implementation
+namespace Algorithms.Implementation
 {
     /// <summary>
-    /// @HackerRank. Can you complete the challenge? http://hr.gs/eau #programming
+    /// @Algorithms. Can you complete the challenge? http://hr.gs/eau #programming
     /// </summary>
     static class UtopianTree
     {

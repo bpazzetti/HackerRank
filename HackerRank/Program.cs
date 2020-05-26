@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HackerRank
+namespace Algorithms
 {
     class Program
     {        
         static void Main(string[] args)
         {
-            Implementation.TheTimeInWords.Main1(args);
+            Implementation.ChocolateFeast.Main1(args);
             Console.ReadLine();
         }
     }

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-namespace HackerRank.Implementation
+namespace Algorithms.Implementation
 {
     class BeautifulDaysAtTheMovies
     {

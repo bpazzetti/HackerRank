@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-namespace HackerRank.Warmup
+namespace Algorithms.Warmup
 {
     class N03_CompareTheTriplets
     {

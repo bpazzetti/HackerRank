@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HackerRank.Implementation
+namespace Algorithms.Implementation
 {
     class CircularArrayRotation
     {

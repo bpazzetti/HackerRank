@@ -4,9 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace HackerRank.Strings
+namespace Algorithms.Strings
 {
-    class HackerRankInAString
+    class AlgorithmsInAString
     {
         static void Main1(String[] args)
         {

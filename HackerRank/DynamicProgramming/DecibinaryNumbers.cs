@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace HackerRank.DynamicProgramming
+namespace Algorithms.DynamicProgramming
 {
 	public class DecibinaryNumbers
 	{

@@ -5,7 +5,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HackerRank.Implementation
+namespace Algorithms.Implementation
 {
     class ExtraLongFactorials
     {

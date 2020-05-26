@@ -62,6 +62,7 @@
     <Compile Include="Implementation\BirthdayChocolate.cs" />
     <Compile Include="Implementation\BreakingTheRecords.cs" />
     <Compile Include="Implementation\CatsAndAMouse.cs" />
+    <Compile Include="Implementation\ChocolateFeast.cs" />
     <Compile Include="Implementation\ClimbingTheLeaderboard.cs" />
     <Compile Include="Implementation\CountingValleys .cs" />
     <Compile Include="Implementation\DesignerPDFViewer.cs" />

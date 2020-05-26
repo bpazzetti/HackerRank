@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HackerRank.Implementation
+namespace Algorithms.Implementation
 {
-	//@HackerRank. Can you complete the challenge? http://hr.gs/3ru4 #programming
+	//@Algorithms. Can you complete the challenge? http://hr.gs/3ru4 #programming
 	static class FormingAMagicSquare
 	{
 		static int formingMagicSquare(int[][] s)

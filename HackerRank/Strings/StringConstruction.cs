@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-namespace HackerRank.Strings
+namespace Algorithms.Strings
 {
     class StringConstruction
     {

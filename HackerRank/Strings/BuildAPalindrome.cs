@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using System.Linq;
 
-namespace HackerRank.Strings
+namespace Algorithms.Strings
 {
 	public class BuildAPalindrome
 	{

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace HackerRank.DynamicProgramming
+namespace Algorithms.DynamicProgramming
 {
     public class BasicTest
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-namespace HackerRank.Warmup
+namespace Algorithms.Warmup
 { 
 class N01_SolveMeFirst {
     static int solveMeFirst(int a, int b) { 

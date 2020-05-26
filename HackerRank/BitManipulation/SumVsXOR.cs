@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace HackerRank.BitManipulation
+namespace Algorithms.BitManipulation
 {
 	public class SumVsXOR
 	{
