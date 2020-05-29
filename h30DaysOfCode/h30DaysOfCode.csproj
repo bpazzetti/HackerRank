@@ -22,6 +22,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>h30DaysOfCode.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -31,6 +32,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>h30DaysOfCode.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -56,11 +58,29 @@
     <Compile Include="Day10_BinaryNumbers.cs" />
     <Compile Include="Day11_2DArrays.cs" />
     <Compile Include="Day12_Inheritance.cs" />
+    <Compile Include="Day13_AbstractClasses.cs" />
+    <Compile Include="Day14_Scope.cs" />
+    <Compile Include="Day15_LinkedList.cs" />
+    <Compile Include="Day16_ExceptionsStringToInteger.cs" />
+    <Compile Include="Day17_MoreExceptions.cs" />
+    <Compile Include="Day18_QueuesAndStacks.cs" />
+    <Compile Include="Day19_Interfaces.cs" />
+    <Compile Include="Day20_Sorting.cs" />
+    <Compile Include="Day21_Generics.cs" />
+    <Compile Include="Day22_BinarySearchTrees.cs" />
+    <Compile Include="Day23_BSTLevelOrderTraversal.cs" />
+    <Compile Include="Day24_MoreLinkedLists.cs" />
+    <Compile Include="Day25_RunningTimeAndComplexity.cs" />
+    <Compile Include="Day26_NestedLogic.cs" />
+    <Compile Include="Day27_Testing.cs" />
+    <Compile Include="Day28_RegExPatternsAndIntroToDatabases.cs" />
+    <Compile Include="Day29_BitwiseAND.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="h30DaysOfCode.ruleset" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

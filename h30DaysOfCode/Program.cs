@@ -10,7 +10,7 @@ namespace h30DaysOfCode
     {
         static void Main(string[] args)
         {
-            Day12_Inheritance.Main1();
+            Day29_BitwiseAND.Main1(args);
             Console.ReadLine();
         }
     }
