@@ -6,9 +6,9 @@ namespace Algorithms.Implementation
 {
     class ElectronicsShop
     {
-
-        static void Main1(String[] args)
+        public static void Main1(String[] args)
         {
+            _ = args;
             string[] tokens_s = Console.ReadLine().Split(' ');
             int s = Convert.ToInt32(tokens_s[0]);
             int n = Convert.ToInt32(tokens_s[1]);

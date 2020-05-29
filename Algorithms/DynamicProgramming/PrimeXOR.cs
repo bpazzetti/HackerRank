@@ -6,10 +6,11 @@ using System.Collections.Generic;
 
 namespace Algorithms.DynamicProgramming
 {
-	public class PrimeXOR
+	class PrimeXOR
 	{
-		public static void Main1(String[] args)
+		public static void Main1(string[] args)
 		{
+			_ = args;
 			/* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
 			bool[] primes;
 
@@ -71,7 +72,7 @@ namespace Algorithms.DynamicProgramming
 						if (mem[flag, j] >= mod)
 							mem[flag, j] %= mod;
 					}
-					flag = flag ^ 1;
+					flag ^= 1;
 				}
 
 				long res = 0;
